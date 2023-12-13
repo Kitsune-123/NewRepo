@@ -141,3 +141,5 @@ Emoji:
  
 Markup : Code appears between colors :EMOJICODE:
 :mask:
+
+652115053 Hunsawut Hanworawirun I just wanna say "HELP ME DEV OP SO HARD"
